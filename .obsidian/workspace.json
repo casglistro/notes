@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd10b5dd57dcde6",
+        "id": "c4ac2062e2a1e81b",
         "type": "tabs",
         "children": [
           {
-            "id": "d33f2bef84d47e8b",
+            "id": "59d7456fda546c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/概率论.md",
+                "file": "考研复习/线性代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研复习/概率论.md",
+                "file": "考研复习/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研复习/概率论.md",
+                "file": "考研复习/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/概率论.md"
+                "file": "考研复习/线性代数.md"
               }
             }
           },
@@ -134,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "90ef3b02c6c382b2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -156,34 +164,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d33f2bef84d47e8b",
+  "active": "59d7456fda546c58",
   "lastOpenFiles": [
-    "考研复习/高等数学.md",
     "考研复习/概率论.md",
-    "考研复习/数据结构.md",
     "考研复习/线性代数.md",
-    "考研复习/操作系统复习.md",
-    "考研复习/高等数学错题集.md",
-    "考研复习/线性代数错题集.md",
+    "考研复习/高等数学.md",
+    "考研复习/数据结构.md",
     "考研复习/英语近似词.md",
+    "考研复习/高等数学错题集.md",
+    "考研复习/操作系统复习.md",
+    "考研复习/不定积分求解.md",
+    "考研复习/线性代数错题集.md",
+    "考研复习/images/Pasted image 20240614191625.png",
+    "算法/LeetCode 1793. 好子数组的最大分数(单调栈 双指针).md",
+    "算法/LeetCode Contest 389.md",
+    "考研复习/images/Pasted image 20240521230247.png",
+    "考研复习/images/Pasted image 20240509200439.png",
+    "考研复习/images/IMG_20240527_221349.jpg",
+    "考研复习/images/IMG_20240527_221343.jpg",
+    "images/Pasted image 20240414210516.png",
+    "考研复习/images/Pasted image 20240513212225.png",
+    "考研复习/images/Pasted image 20240527212805.png",
+    "考研复习/images/Pasted image 20240527211925.png",
     "杂项/Arch Linux.md",
     "杂项/vscode.md",
     "杂项/new.md",
-    "考研复习/images/Pasted image 20240513212225.png",
-    "考研复习/不定积分求解.md",
     "images/Pasted image 20240414223436.png",
-    "考研复习/images/IMG_20240527_221349.jpg",
-    "考研复习/images/IMG_20240527_221343.jpg",
-    "考研复习/images/Pasted image 20240527212805.png",
-    "考研复习/images/Pasted image 20240527211925.png",
-    "考研复习/images/Pasted image 20240521230247.png",
-    "考研复习/images/Pasted image 20240509200439.png",
-    "考研复习/images/Pasted image 20240509194631.png",
-    "考研复习/images/Pasted image 20240513212241.png",
     "编程语言/haskell.md",
     "编程语言/images",
     "编程语言/未命名.md",
-    "算法/LeetCode 1793. 好子数组的最大分数(单调栈 双指针).md",
     "经典书籍/编译原理.md",
     "经典书籍/images",
     "库和框架/burn - rust的深度学习库.md",
@@ -197,13 +206,11 @@
     "库和框架",
     "编程语言",
     "images",
-    "算法/LeetCode Contest 389.md",
     "泰勒公式使用.md",
     "算法/LeetCode Biweekly Contest 126.md",
     "未命名.canvas",
     "算法/LeetCode Contest 390.md",
     "Yuuka与二项式.md",
-    "---.md",
-    "hello-world.md"
+    "---.md"
   ]
 }
