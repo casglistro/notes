@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "0cc9212f822ef314",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd10b5dd57dcde6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d33f2bef84d47e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研复习/概率论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99e7e07d423d242f",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e9e4f3194d5bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee0f81620b0ab457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c9689f16ec994fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd413b32bf651ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308
+  },
+  "right": {
+    "id": "dffefea7ee081022",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bc750cdfcd691b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b904c9bf509a91e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研复习/概率论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b3c2caa4c3a837b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研复习/概率论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52ac50a7ab95e3f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d3125ec6d945284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研复习/概率论.md"
+              }
+            }
+          },
+          {
+            "id": "e1b39c566ac5b374",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d33f2bef84d47e8b",
+  "lastOpenFiles": [
+    "考研复习/高等数学.md",
+    "考研复习/概率论.md",
+    "考研复习/数据结构.md",
+    "考研复习/线性代数.md",
+    "考研复习/操作系统复习.md",
+    "考研复习/高等数学错题集.md",
+    "考研复习/线性代数错题集.md",
+    "考研复习/英语近似词.md",
+    "杂项/Arch Linux.md",
+    "杂项/vscode.md",
+    "杂项/new.md",
+    "考研复习/images/Pasted image 20240513212225.png",
+    "考研复习/不定积分求解.md",
+    "images/Pasted image 20240414223436.png",
+    "考研复习/images/IMG_20240527_221349.jpg",
+    "考研复习/images/IMG_20240527_221343.jpg",
+    "考研复习/images/Pasted image 20240527212805.png",
+    "考研复习/images/Pasted image 20240527211925.png",
+    "考研复习/images/Pasted image 20240521230247.png",
+    "考研复习/images/Pasted image 20240509200439.png",
+    "考研复习/images/Pasted image 20240509194631.png",
+    "考研复习/images/Pasted image 20240513212241.png",
+    "编程语言/haskell.md",
+    "编程语言/images",
+    "编程语言/未命名.md",
+    "算法/LeetCode 1793. 好子数组的最大分数(单调栈 双指针).md",
+    "经典书籍/编译原理.md",
+    "经典书籍/images",
+    "库和框架/burn - rust的深度学习库.md",
+    "考研复习/images",
+    "杂项",
+    "经典书籍/SICP.md",
+    "经典书籍",
+    "算法",
+    "考研复习",
+    "算法/LeetCode 1969. 数组元素的最大乘积.md",
+    "库和框架",
+    "编程语言",
+    "images",
+    "算法/LeetCode Contest 389.md",
+    "泰勒公式使用.md",
+    "算法/LeetCode Biweekly Contest 126.md",
+    "未命名.canvas",
+    "算法/LeetCode Contest 390.md",
+    "Yuuka与二项式.md",
+    "---.md",
+    "hello-world.md"
+  ]
+}
