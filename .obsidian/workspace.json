@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/线性代数错题集.md",
+                "file": "考研复习/线性代数.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研复习/线性代数错题集.md",
+                "file": "考研复习/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研复习/线性代数错题集.md",
+                "file": "考研复习/线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/线性代数错题集.md"
+                "file": "考研复习/线性代数.md"
               }
             }
           },
@@ -167,12 +167,12 @@
   "active": "59d7456fda546c58",
   "lastOpenFiles": [
     "考研复习/高等数学错题集.md",
+    "考研复习/高等数学.md",
+    "考研复习/线性代数错题集.md",
     "考研复习/线性代数.md",
     "考研复习/数据结构.md",
-    "考研复习/高等数学.md",
     "考研复习/概率论.md",
     "考研复习/操作系统复习.md",
-    "考研复习/线性代数错题集.md",
     "考研复习/images/Pasted image 20240614212714.png",
     "考研复习/英语近似词.md",
     "考研复习/不定积分求解.md",
