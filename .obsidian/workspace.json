@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/线性代数.md",
+                "file": "考研复习/线性代数错题集.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研复习/线性代数.md",
+                "file": "考研复习/线性代数错题集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研复习/线性代数.md",
+                "file": "考研复习/线性代数错题集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/线性代数.md"
+                "file": "考研复习/线性代数错题集.md"
               }
             }
           },
@@ -166,15 +166,16 @@
   },
   "active": "59d7456fda546c58",
   "lastOpenFiles": [
-    "考研复习/概率论.md",
-    "考研复习/线性代数.md",
-    "考研复习/高等数学.md",
-    "考研复习/数据结构.md",
-    "考研复习/英语近似词.md",
     "考研复习/高等数学错题集.md",
+    "考研复习/线性代数.md",
+    "考研复习/数据结构.md",
+    "考研复习/高等数学.md",
+    "考研复习/概率论.md",
     "考研复习/操作系统复习.md",
-    "考研复习/不定积分求解.md",
     "考研复习/线性代数错题集.md",
+    "考研复习/images/Pasted image 20240614212714.png",
+    "考研复习/英语近似词.md",
+    "考研复习/不定积分求解.md",
     "考研复习/images/Pasted image 20240614191625.png",
     "算法/LeetCode 1793. 好子数组的最大分数(单调栈 双指针).md",
     "算法/LeetCode Contest 389.md",
@@ -189,7 +190,6 @@
     "杂项/Arch Linux.md",
     "杂项/vscode.md",
     "杂项/new.md",
-    "images/Pasted image 20240414223436.png",
     "编程语言/haskell.md",
     "编程语言/images",
     "编程语言/未命名.md",
