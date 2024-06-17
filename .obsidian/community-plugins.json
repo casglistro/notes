@@ -9,5 +9,7 @@
   "editing-toolbar",
   "templater-obsidian",
   "obsidian-latex-suite",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "spreadsheets",
+  "obsidian-git"
 ]
