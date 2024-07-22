@@ -1,15 +1,16 @@
 [
   "easy-typing-obsidian",
   "cm-chs-patch",
-  "obsidian-completr",
   "obsidian-dynamic-background",
   "obsidian-style-settings",
   "obsidian-hover-editor",
   "obsidian-quiet-outline",
   "editing-toolbar",
-  "templater-obsidian",
   "obsidian-latex-suite",
   "table-editor-obsidian",
   "spreadsheets",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "background-image",
+  "obsidian-completr"
 ]
